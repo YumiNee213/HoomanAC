@@ -3,7 +3,7 @@ The Human Anticheat That Everyone Waited For!
 
 
 
-Download:
+# Download:
 
 Go to Releases by clicking this link: https://github.com/EmirhaN998/HoomanAC/releases .
 
