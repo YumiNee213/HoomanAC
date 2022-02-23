@@ -1,5 +1,5 @@
 # HoomanAC
-The Human Anticheat That Everyone Waited For!
+The Anticheat That Everyone Waited For!
 
 
 
